@@ -13,3 +13,27 @@
 2018-10-30 09:18:23,621 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-10-30 09:18:23,624 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-10-30 09:18:23,637 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\new_maven_proj\nissandigital\src\test\resources
+2018-10-30 09:24:34,693 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:24:34,703 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-30 09:24:34,705 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:24:34,710 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\new_maven_proj\nissandigital\src\test\resources
+2018-10-30 09:24:37,771 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:24:37,778 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-30 09:24:37,780 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:24:37,785 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\new_maven_proj\nissandigital\src\test\resources
+2018-10-30 09:24:40,247 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:24:40,258 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-30 09:24:40,262 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:24:40,272 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\new_maven_proj\nissandigital\src\test\resources
+2018-10-30 09:29:00,235 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nissan:nissandigital:0.0.1-SNAPSHOT @ D:\new_maven_proj\nissandigital\pom.xml.
+2018-10-30 09:29:01,248 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:29:01,260 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-30 09:29:01,263 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:29:01,277 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\new_maven_proj\nissandigital\src\test\resources
+2018-10-30 09:29:01,279 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of nissandigital
+2018-10-30 09:29:01,280 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for nissandigital
+2018-10-30 09:29:01,288 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:29:01,530 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:29:01,539 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-30 09:29:01,540 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-30 09:29:01,550 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\new_maven_proj\nissandigital\src\test\resources
